@@ -1,5 +1,5 @@
 # AGIW-DatasetProfiling
 
 ° plotA è numero di attributi per json
-° plotBbarchart è numeroSorgenti / numeroJSON
+° plotBbarchart e plotBpiechart sono numeroSorgenti / numeroJSON 
 ° plot3 è numeroDiAttributi per range di entropia

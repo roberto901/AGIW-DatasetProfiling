@@ -9,7 +9,7 @@ entropyRange = 0.5
 
 def string_transformer(stringa):
     for punct in string.punctuation:
-        stringa = stringa.replace(punct,"")
+        stringa = stringa.replace(punct," ")
     stringa = " ".join(stringa.split())
     stringa = stringa.upper()
     return stringa
